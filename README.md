@@ -8,6 +8,18 @@
 **Background:Technical support  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 **Why I joined this course:I want to learn new things that can't be replaced by Ai  
 
 
@@ -23,3 +35,5 @@
 ---
 
 This repository documents my learning log, experiments, and projects as I study software engineering.
+
+
